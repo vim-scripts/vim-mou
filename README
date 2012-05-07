@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4052
+
+You can preview markdown file with Mou.app
+
+Open current file with Mou.app
+:MouOpen
+
+Close
+:MouQuit
+
+https://github.com/cfddream/vim-mou
